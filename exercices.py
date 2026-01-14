@@ -1,7 +1,6 @@
 def element_dans_liste(e,l):
-    return e in l
-
-
+    l_lower=[el.lower() for el in l]
+    return e.lower() in l_lower
 
 noms= ["Jean","Sophie","Martin","Christophe","Zoé","Martin"]
 
