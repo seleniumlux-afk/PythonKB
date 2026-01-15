@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/cuisson_oeufs.iml" filepath="$PROJECT_DIR$/.idea/cuisson_oeufs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonKB.iml" filepath="$PROJECT_DIR$/.idea/PythonKB.iml" />
     </modules>
   </component>
 </project>
