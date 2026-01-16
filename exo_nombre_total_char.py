@@ -9,6 +9,4 @@ print(nb_char)'''
 nb_char=sum(list_length)
 print(nb_char)'''
 
-list_length=[len(nom) for nom in noms]
-nb_char=
-print(nb_char)
+print("Total character count :",len("".join(noms)))
